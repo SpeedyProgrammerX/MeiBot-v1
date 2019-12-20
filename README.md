@@ -1,2 +1,2 @@
-# ITCS-3152
+# Meibot V1 (Prolog)
 MeiBot :D
